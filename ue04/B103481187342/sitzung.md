@@ -127,11 +127,11 @@ Read file README.md, lines 1-74
 }
 ```
 
-/Users/arsemagebremichael/Documents/thm_wk-1208_softwaretechnik-uebungen/README.md
-/Users/arsemagebremichael/Documents/thm_wk-1208_softwaretechnik-uebungen/ue01/README.md
-/Users/arsemagebremichael/Documents/thm_wk-1208_softwaretechnik-uebungen/ue04/README.md
-/Users/arsemagebremichael/Documents/thm_wk-1208_softwaretechnik-uebungen/ue02/README.md
-/Users/arsemagebremichael/Documents/thm_wk-1208_softwaretechnik-uebungen/ue03/README.md
+/Users/benutzer/Documents/thm_wk-1208_softwaretechnik-uebungen/README.md
+/Users/benutzer/Documents/thm_wk-1208_softwaretechnik-uebungen/ue01/README.md
+/Users/benutzer/Documents/thm_wk-1208_softwaretechnik-uebungen/ue04/README.md
+/Users/benutzer/Documents/thm_wk-1208_softwaretechnik-uebungen/ue02/README.md
+/Users/benutzer/Documents/thm_wk-1208_softwaretechnik-uebungen/ue03/README.md
 
 **Tool: read**
 
